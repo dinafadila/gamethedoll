@@ -14,9 +14,9 @@
 
 ## Nama Pengembang
 
-1. Zaki Muttaqin		G64170012
-2. Dina Fadila			G64170021
-3. Dhana Dhira			G64170075	
+1. Zaki Muttaqin		G64170012 : Game Programmer, Game Designer
+2. Dina Fadila			G64170021 : Game Designer, Game Artist, Game Programmer
+3. Dhana Dhira			G64170075	: Game Programmer, Game Designer
 
 ## Deskripsi Game
 
@@ -74,7 +74,8 @@ menghisap energi dari manusia.
 1. Menekan button play untuk memulai game
 2. Menekan mouse untuk melompat
 3. Tekan APAAN untuk menghisab jiwa manusia
-4. 
+4. Lalu game akan berakhir jika manabar habis
+
 
 ```
 
