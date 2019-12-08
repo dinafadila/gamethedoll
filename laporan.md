@@ -14,9 +14,9 @@
 
 ## Nama Pengembang
 
-1. Zaki Muttaqin		G64170012
-2. Dina Fadila			G64170021
-3. Dhana Dhira			G64170075	
+1. Zaki Muttaqin (G64170012) : Game Programmer(Main), Game Designer
+2. Dina Fadila (G64170021) : Game Artist(Main), Designer, Programmer
+3. Dhana Dhira (G64170075) : Game Programmer(Main), Game Designer
 
 ## Deskripsi Game
 
@@ -58,22 +58,12 @@ menghisap energi dari manusia.
 
 ```
 
-## Rules
-
-```text
-1. Permainan ini bersifat single player
-2. Doll harus menyerang manusia agar dapat bertahan hidup
-3. Energi yang dimiliki Doll akan terus berkurang apabila tidak menghisap energi manusia
-4. Game ini bersifat endless
-
-```
-
 ## Cara pakai aplikasi
 
 ```text
 1. Menekan button play untuk memulai game
-2. Menekan mouse untuk melompat
-3. Tekan APAAN untuk menghisab jiwa manusia
+2. Klik mouse kiri untuk melompat
+3. Tekan spasi untuk menghisab jiwa manusia
 4. 
 
 ```
